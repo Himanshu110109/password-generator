@@ -1,0 +1,26 @@
+{
+  "name": "genpass-pro",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "A random password generator package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu110109/password-generator.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Himanshu chandani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Himanshu110109/password-generator/issues"
+  },
+  "homepage": "https://github.com/Himanshu110109/password-generator#readme",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  }
+}
