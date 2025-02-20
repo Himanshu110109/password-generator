@@ -4,6 +4,7 @@
   "type":"module",
   "description": "A random password generator package.",
   "main": "index.js",
+  "readme": "file:README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
